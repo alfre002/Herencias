@@ -27,10 +27,10 @@ public class Empleados {
 	public void setSalario(double salario) {
 		this.salario = salario;
 	}
-	public static int getPlus() {
+	public int getPlus() {
 		return plus;
 	}
-	public static void setPlus(int plus) {
+	public void setPlus(int plus) {
 		Empleados.plus = plus;
 	}
 	
